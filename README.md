@@ -1,1 +1,1 @@
-# java swing kullanilarak ozel okullar icin olusturulmus ogrenci kayit programi otomasyonudur. mysql veritabani kullanilmistir. dbase klasorunde bulunan dosya uzerinde veritabani bilgileri verildiginde calismaya baslayacaktir. 
+##### java swing kullanilarak ozel okullar icin olusturulmus ogrenci kayit programi otomasyonudur. mysql veritabani kullanilmistir. dbase klasorunde bulunan dosya uzerinde veritabani bilgileri verildiginde calismaya baslayacaktir. 
